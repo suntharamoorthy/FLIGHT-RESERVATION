@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<flight>
+    <number>FS123T</number>
+    <name>aaa</name>
+    <type>Economy</type>
+    <seat category="AC">
+        <date>30.11.2020</date>
+        <from>chennai</from>
+        <to>mumbai</to>
+        <availability>100</availability>
+    </seat>
+    <seat category="AC">
+        <date>30.11.2020</date>
+        <from>chennai</from>
+        <to>delhi</to>
+        <availability>50</availability>
+    </seat>
+    <seat category="AC">
+        <date>30.11.2020</date>
+        <from>chennai</from>
+        <to>vishakapattinam</to>
+        <availability>30</availability>
+    </seat>
+</flight>

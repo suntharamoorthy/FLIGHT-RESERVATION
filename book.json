@@ -1,0 +1,28 @@
+{
+   "number": "FS123T",
+   "name": "aaa",
+   "type": "Economy",
+   "seat": [
+      {
+         "@category": "AC",
+         "date": "30.11.2020",
+         "from": "chennai",
+         "to": "mumbai",
+         "availability": "100"
+      },
+      {
+         "@category": "AC",
+         "date": "30.11.2020",
+         "from": "chennai",
+         "to": "delhi",
+         "availability": "50"
+      },
+      {
+         "@category": "AC",
+         "date": "30.11.2020",
+         "from": "chennai",
+         "to": "vishakapattinam",
+         "availability": "30"
+      }
+   ]
+}

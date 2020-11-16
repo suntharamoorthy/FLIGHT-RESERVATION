@@ -1,0 +1,50 @@
+[
+   {
+      "@id": "1",
+      "name": "vatsan",
+      "age": "20",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "9876948393",
+      "aadhar": "xxxx yyyy zzzz",
+      "flightdetails": {
+         "flightno": "F167SF4",
+         "from": "chennai",
+         "to": "mumbai",
+         "amount": "2800",
+         "date": "30.11.2020"
+      }
+   },
+   {
+      "@id": "2",
+      "name": "praveen",
+      "age": "20",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "9796857687",
+      "aadhar": "xxxx yyyy zzzz",
+      "flightdetails": {
+         "flightno": "F167SF4",
+         "from": "chennai",
+         "to": "delhi",
+         "amount": "4500",
+         "date": "30.11.2020"
+      }
+   },
+   {
+      "@id": "3",
+      "name": "vignesh",
+      "age": "19",
+      "gender": "male",
+      "address": "xxx",
+      "phone": "8899657687",
+      "aadhar": "xxxx yyyy zzzz",
+      "flightdetails": {
+         "flightno": "F167SF4",
+         "from": "chennai",
+         "to": "vishakapattinam",
+         "amount": "1800",
+         "date": "30.11.2020"
+      }
+   }
+]

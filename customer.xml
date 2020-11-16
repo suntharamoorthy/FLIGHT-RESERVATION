@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<details>
+    <info id="1">
+        <name>vatsan</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>9876948393</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <flightdetails>
+            <flightno>F167SF4</flightno>
+            <from>chennai</from>
+            <to>mumbai</to>
+            <amount>2800</amount>
+            <date>30.11.2020</date>
+        </flightdetails>
+    </info>
+    <info id="2">
+        <name>praveen</name>
+        <age>20</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>9796857687</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <flightdetails>
+            <flightno>F167SF4</flightno>
+            <from>chennai</from>
+            <to>delhi</to>
+            <amount>4500</amount>
+            <date>30.11.2020</date>
+        </flightdetails>
+    </info>
+    <info id="3">
+        <name>vignesh</name>
+        <age>19</age>
+        <gender>male</gender>
+        <address>xxx</address>
+        <phone>8899657687</phone>
+        <aadhar>xxxx yyyy zzzz</aadhar>
+        <flightdetails>
+            <flightno>F167SF4</flightno>
+            <from>chennai</from>
+            <to>vishakapattinam</to>
+            <amount>1800</amount>
+            <date>30.11.2020</date>
+        </flightdetails>
+    </info>
+</details>
